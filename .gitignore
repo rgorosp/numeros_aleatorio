@@ -1,0 +1,5 @@
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+usuarioSenha.txt 
